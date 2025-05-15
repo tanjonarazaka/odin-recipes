@@ -1,1 +1,2 @@
 # odin-recipes
+This project consists of building a basic recipe website. It will contain links ot few recipe. Finally, I will demonstrate how to put links and images on a webpage, and what I learned about html tags and elements.
