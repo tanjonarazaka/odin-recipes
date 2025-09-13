@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    margin: 0 10px;
+}
+
+.home-title {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.home-list { 
+    margin-top: 20px;
+}
+
+.home-list li{
+
+    margin-bottom: 10px;
+}
+
+.home-list li a:visited {
+    text-decoration-color: white;
+    color: black;
+}
+
+
+.home-list li a:hover {
+    color: rgb(255, 47, 0);
+}
+
+.home-list li a:active {
+    color: rgb(0, 162, 255);
+}
+
+.orange-title {
+    color: orange;
+}
+
+.steps-li li{
+    margin-bottom: 10px;
+}
